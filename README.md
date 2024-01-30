@@ -1,8 +1,3 @@
 ### Hi there 👋
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+### 안녕하세요. 언리얼 엔진과 게임 서버 개발자를 꿈꾸고 있는 홍지현입니다.
