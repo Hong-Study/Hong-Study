@@ -6,7 +6,9 @@
 </div>
 <div align =center>
 <p>📔 Languages 📔</p>
-<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat" />
-<img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat" />
+  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
+  <img src="https://img.shields.io/badge/-php-000000?logo=php&style=flat" />
+  <img src="https://img.shields.io/badge/-go-000000?logo=go&style=flat" />
 </div>
 
